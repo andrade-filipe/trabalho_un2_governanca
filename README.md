@@ -16,7 +16,7 @@ Repositório dedicado a documentação do trabalho de governança
 - [ ] **[Documentação]** Criar o template do manual técnico com todas as seções vazias
 - [X] **[Catálogo]** Rascunhar lista preliminar dos 5+ serviços com nome, descrição curta e categoria
 - [X] **[Processos]** Estudar e documentar a diferença entre Incidente e Requisição no ITIL v4
-- [ ] **[SLA]** Estudar e propor a matriz Impacto × Urgência para o grupo aprovar
+- [X] **[SLA]** Estudar e propor a matriz Impacto × Urgência para o grupo aprovar
 
 ## Semana 2 (26/05–01/06) — Configuração e modelagem
 
@@ -25,14 +25,14 @@ Repositório dedicado a documentação do trabalho de governança
 - [X] **[Catálogo]** Finalizar a lista dos 5+ serviços e cadastrar todos no sistema com descrição, pré-requisitos e responsáveis
 - [X] **[Processos]** Modelar em BPMN ou fluxograma os fluxos de triagem e escalonamento N1 → N2 → gestor
 - [X] **[Processos]** Modelar separadamente os fluxos de Tratamento de Incidente e Tratamento de Requisição
-- [ ] **[SLA]** Aprovar a matriz de prioridade (Crítico, Alto, Médio, Baixo) com o grupo
-- [ ] **[SLA]** Definir tempos de resposta e solução por prioridade e documentar a tabela
+- [X] **[SLA]** Aprovar a matriz de prioridade (Crítico, Alto, Médio, Baixo) com o grupo
+- [X] **[SLA]** Definir tempos de resposta e solução por prioridade e documentar a tabela
 - [ ] **[Documentação]** Iniciar redação da seção de Arquitetura (com prints e diagramas da Frente de Infra)
 - [ ] **[Apresentação]** Rascunhar o roteiro da demo ao vivo e o cenário corporativo simulado
 
 ## Semana 3 (02–08/06) — Operacionalização
 
-- [ ] **[SLA]** Configurar os SLAs e gatilhos de escalonamento dentro da ferramenta
+- [X] **[SLA]** Configurar os SLAs e gatilhos de escalonamento dentro da ferramenta
 - [X] **[Processos]** Cadastrar no sistema os protocolos finais de Incidente e Requisição
 - [X] **[ITIL/Perfis]** Configurar automações: notificações, atribuições automáticas, regras de escalonamento
 - [X] **[Catálogo]** Popular a base de conhecimento com pelo menos 1 artigo por serviço do catálogo
